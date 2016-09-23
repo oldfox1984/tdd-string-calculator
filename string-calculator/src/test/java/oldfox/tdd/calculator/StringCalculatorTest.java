@@ -1,3 +1,3 @@
-package test.java.calculator;
+package oldfox.tdd.calculator;
 
 public class StringCalculatorTest {}
